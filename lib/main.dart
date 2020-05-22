@@ -96,7 +96,7 @@ class RandomWordsState extends State<RandomWords> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('proceedit Startup NG'),
+        title: Text('Startup Name Generator'),
         actions: <Widget>[
           IconButton(
             icon: Icon(Icons.list),
